@@ -1,5 +1,18 @@
 # Tifinagh to Latin Converter
 
+> Morning plan : from 9:30am to 12am learning with online courses.
+> Afternoon plan : from 13:15 to 17:30 working on the Tifinagh converter app.
+
+## Next thing to work on
+
+### Frontend
+
+- Developing the frontend part with angular.
+
+### Backend
+
+- Fixing some issues. (Read more in the [todo.md](./todo.md) file).
+
 ## Overview
 
 This project is a small Nest.js application for converting text between Tifinagh and Latin scripts. It consists of a backend API and a frontend SPA.
