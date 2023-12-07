@@ -67,3 +67,13 @@ GET /converter/tifinagh-to-latin/rachid
 ### Swagger documentation
 
 You can find the swagger documentation on the `/swagger`` endpoint.
+
+### Backlog
+
+### Sprint 1. 11-15.12.2023
+
+- Learn the basics of Angular.
+- Setup the frontend with Angular.
+- Dockerise the frontend and push it to dockerhub.
+- Learn about docker compose.
+- Connect both the frotend and backend with docker compose.
