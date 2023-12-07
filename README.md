@@ -12,6 +12,7 @@
 ### Backend
 
 - Fixing some issues. (Read more in the [todo.md](./todo.md) file).
+- Add a database which stores words in Amazigh with their corresponding translations in german,and fetch its data using a different backend (Micro service).
 
 ## Overview
 

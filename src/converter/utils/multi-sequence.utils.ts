@@ -21,3 +21,4 @@ export function convertMultiCharacterSequences(word: string): string {
 
     return word;
   }
+
