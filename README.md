@@ -72,7 +72,6 @@ You can find the swagger documentation on the `/swagger`` endpoint.
 
 ### Sprint 1. 11-15.12.2023
 
-- Learn the basics of Angular.
 - Setup the frontend with Angular.
 - Dockerise the frontend and push it to dockerhub.
 - Learn about docker compose.
